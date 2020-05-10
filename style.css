@@ -1,3 +1,37 @@
 h1, h2 {
   font-family: Lato;
 }
+body {
+			background-color: #27292b;
+			color: #ecece7;
+			margin-left: 20%;
+			margin-right: 20%;
+			font-family: Arial, Helvetica, sans-serif;
+		}
+
+    h1, h2 {
+      text-align: center;
+    }
+
+    p {
+      text-align: justify;
+    }
+
+		section {
+      margin-top: 35px;
+      padding-bottom: 19px;
+      border-bottom: 2px solid;
+    }
+    a {
+      color: #7289DA;
+      text-decoration: none;
+      }
+    a:hover {
+      text-decoration: underline;
+    }
+
+    #abschluss {
+      border-bottom: 0px;
+      padding-bottom: 0px;
+      font-size: 13px;
+    }
