@@ -10,7 +10,6 @@ submitButton.addEventListener('click', function(event){
 var mail = document.getElementById('kontaktformular-mail')
 var sinfonie = document.getElementById('kontaktformular-sinfonie')
 var inhalt = document.getElementById('kontaktformular-inhalt')
-console.log(inhalt)
 
 var kontakt = ''
 
