@@ -52,5 +52,7 @@ body {
     .kontakt {
       border-bottom: 0px;
       background-color: #ecece7;
-      color: #27292b
+      color: #27292b;
+      padding: 10px;
+      margin: 5px 0px;
     }
