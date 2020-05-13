@@ -48,3 +48,7 @@ body {
       padding: 10px;
       margin: 5px 0px;
     }
+
+    #kontakt {
+      border-bottom: 0px;
+    }
