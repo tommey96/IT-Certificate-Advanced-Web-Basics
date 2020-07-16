@@ -57,14 +57,9 @@ body {
       margin: 5px 0px;
     }
 
-    #spotify1 {
-      float: left;
-      width: 25%;
-    }
-
-    #youtube1 {
-      float: right;
-      width: 75%;
+    #media1 {
+      margin-top: 10px;
+      margin-bottom: 10px;
     }
 
 #banner {
