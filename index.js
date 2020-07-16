@@ -3,7 +3,7 @@ import './style.css';
 
 // Write Javascript code!
 
-var kontaktaufnahmen = document.getElementById('kontaktaufnahmen')
+var kontaktaufnahmen = document.getElementById('kontakt-aufnahmen')
 
 var submitButton = document.getElementById('kontaktformular-submit')
 submitButton.addEventListener('click', function(event){
