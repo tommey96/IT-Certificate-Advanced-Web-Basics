@@ -1,5 +1,5 @@
 // Import stylesheets
-import './style.css';
+import('./style.css').catch(() => console.log('Außerhalb von StackBlitz'));
 
 // Write Javascript code!
 
