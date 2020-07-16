@@ -3,7 +3,7 @@ import './style.css';
 
 // Write Javascript code!
 
-var kontaktbereich = document.getElementById('kontakt-bereich')
+var kontaktaufnahmen = document.getElementById('kontaktaufnahmen')
 
 var submitButton = document.getElementById('kontaktformular-submit')
 submitButton.addEventListener('click', function(event){
@@ -21,6 +21,6 @@ kontakt += '<p>' + inhalt.value + '</p>'
 
 kontakt += '</section>'
 
-kontaktbereich.innerHTML += kontakt
+kontaktaufnahmen.innerHTML += kontakt
 
 })
