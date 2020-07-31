@@ -59,9 +59,20 @@ body {
 
     .flex-container-media1 {
       display: flex;
-      flex-direction: row;
-      align-content: stretch;
-      flex-basis: 50%;
+    }
+
+    .flex-container-media1 :first-child {
+      justify-content: flex-start;
+      height: 350px;
+    }
+
+    .flex-container-media1 :last-child {
+      justify-content: flex-end;
+      height: 350px;
+    }
+
+    .flex-container-media1 :hover {
+      
     }
 
 #banner {
