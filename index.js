@@ -1,8 +1,3 @@
-// Import stylesheets
-import('./style.css').catch(() => console.log('Außerhalb von StackBlitz'));
-
-// Write Javascript code!
-
 var kontaktaufnahmen = document.getElementById('kontakt-aufnahmen')
 
 var submitButton = document.getElementById('kontaktformular-submit')
